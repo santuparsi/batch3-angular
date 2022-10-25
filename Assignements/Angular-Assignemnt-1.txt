@@ -1,0 +1,8 @@
+1. Create new Angular app.
+2. Create a Model book(bookId,bookName,price,author,lang,year)
+3. Creaet book-view component add do the following functionalities
+	a. display multiple books on the view
+	b. add new book
+Note: use book array to display and add book details (use 2-way binding)
+
+

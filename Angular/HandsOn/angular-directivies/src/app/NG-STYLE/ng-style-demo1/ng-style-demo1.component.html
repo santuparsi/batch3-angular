@@ -1,0 +1,5 @@
+<div [ngStyle]="{'background-color': 'green'}">Ng-style Demo</div>
+<div [ngStyle]="{'background-color': toggle?'green':'red'}">Ng-Style Demo2</div>
+<div>
+  <button on-click="SetToggle()" [ngStyle]="{'background-color': toggle?'green':'red'}">Toggle</button>
+</div>
