@@ -1,0 +1,4 @@
+1. Creaet Student registration form using template driven form
+2. Create login form using reactive form
+3. Create Employee Registration form using reactive form
+Note: apply required validations in template and reactive forms
