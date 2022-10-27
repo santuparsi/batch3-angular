@@ -1,0 +1,4 @@
+Demonstrate how to read api in Angular app using angular services
+Read Todo Api using Angular service and display all todos in a view-todo component
+
+uri: https://jsonplaceholder.typicode.com/todos
